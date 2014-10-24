@@ -1,5 +1,5 @@
 package net.mauro;
-
+//hola
 public class Caixa {
     boolean oberta;
     int amplada;
