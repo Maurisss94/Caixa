@@ -1,6 +1,8 @@
 package net.mauro;
 //hola
 public class Caixa {
+
+//prova de comentari
     boolean oberta;
     int amplada;
     int altura;
