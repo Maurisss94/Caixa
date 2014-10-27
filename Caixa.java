@@ -1,6 +1,9 @@
+//PROVA
 package net.mauro;
 //Comentari en lka mateixa linia....
+//hola
 public class Caixa {
+//prova de comentari
     boolean oberta;
     int amplada;
     int altura;
