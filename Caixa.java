@@ -1,5 +1,5 @@
 package net.mauro;
-
+//Comentari en lka mateixa linia
 public class Caixa {
     boolean oberta;
     int amplada;
