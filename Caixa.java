@@ -1,12 +1,12 @@
 package net.mauro;
-//Comentari en lka mateixa linia
+//Comentari en lka mateixa linia....
 public class Caixa {
     boolean oberta;
     int amplada;
     int altura;
     String material;
 
-    //crear constructor
+    //crear constructor de la caixa
     public Caixa(){
         oberta = true;
         material = "Cartró";
